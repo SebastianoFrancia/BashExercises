@@ -1,5 +1,5 @@
 <center>
-<a href="https://github.com/SebastianoFrancia/AssemblyExercises/"><img width="80%" alt="C#" src="./.assets/gh-readme-header.png" /></a>
+<a href="https://github.com/SebastianoFrancia/BashExercises/"><img width="80%" alt="C#" src="./.assets/gh-readme-header.png" /></a>
 </center>
 
 # BashExercises
